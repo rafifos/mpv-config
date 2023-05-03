@@ -1,0 +1,19 @@
+[submodule "external/mpv"]
+	path = external/mpv
+	url = https://github.com/mpv-player/mpv.git
+
+[submodule "external/mpv-discordRPC"]
+	path = external/mpv-discordRPC
+	url = https://github.com/cniw/mpv-discordRPC.git
+
+[submodule "external/thumbfast"]
+	path = external/thumbfast
+	url = https://github.com/po5/thumbfast.git
+
+[submodule "external/uosc"]
+	path = external/uosc
+	url = https://github.com/tomasklaen/uosc.git
+
+[submodule "external/Anime4k"]
+	path = external/Anime4k
+	url = https://github.com/bloc97/Anime4K.git
